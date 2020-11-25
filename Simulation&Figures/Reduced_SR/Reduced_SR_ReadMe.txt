@@ -1,0 +1,1 @@
+Results with goal-based reduced successor representation are generated in this file.

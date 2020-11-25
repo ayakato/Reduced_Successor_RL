@@ -1,0 +1,1 @@
+CSV files of the simulation results with punctate state representation are generated in this file.

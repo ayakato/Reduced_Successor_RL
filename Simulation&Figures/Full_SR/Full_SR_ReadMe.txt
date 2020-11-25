@@ -1,0 +1,1 @@
+CSV files of the simulation results with full(genuine) successor representation are generated in this file.
